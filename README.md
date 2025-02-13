@@ -16,7 +16,7 @@ This needs playwright to control the browser, it's a JS/TS project, you'll need 
 
 ## Setup
 
-I have this configured to work for Gemini refer to [Supported Models](https://docs.browser-use.com/customize/supported-models) to reconfigure [main.py] to use openAI or your model of choice.
+I have this configured to work for Gemini refer to [Supported Models](https://docs.browser-use.com/customize/supported-models) to reconfigure [main.py](./main.py) to use openAI or your model of choice.
 
 ### Create a .env file
 
@@ -28,7 +28,7 @@ You'll need to specify a couple things:
 * Chrome Profile:
   * I specifically wanted to use a certain chrome profile so that my access certain sites were already logged in. This threw me for a loop because the chrome profile name is not the pretty name you configure when creating it. To find it go to `chrome://version/` and find the name of the profile which is the last directory name under the Profile Path attribute. 
 * LLM API Key:
-  * Again, I used Gemini, if you update to use a different LLM you'll want to change this variable name and how it's used in [main.py]
+  * Again, I used Gemini, if you update to use a different LLM you'll want to change this variable name and how it's used in [main.py](./main.py)
 
 **Example:**
 ```
