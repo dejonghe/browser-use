@@ -1,3 +1,5 @@
+# Dont commit tasks
+.tasks/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +171,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
