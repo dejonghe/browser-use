@@ -1,5 +1,5 @@
 # browser-use
-Testing out browser-use. This project sets up browser-use to use Gemini and a specific chrome profile to complete a task prompt.
+Testing out [browser-use](https://docs.browser-use.com/). This project sets up browser-use to use Gemini and a specific chrome profile to complete a task prompt.
 
 ## Install
 
