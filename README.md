@@ -52,6 +52,16 @@ Enter the task you want to perform: Go to Reddit, search for the meaning of life
 ```
 ![output example](readme_example.gif)
 
+Output:
+```
+1. UltimateAnswer42: "There is a theory
+which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened." - Douglas Adams
+
+2. dontcryformegiratina: A comedy movie released in 1983 that was written, directed by and starring the members of the British comedy troupe Monty Python.
+
+3. I didn't care for this comment so I removed it from the example output.
+```
+
 ## Limitations
 
 I quickly ran into a limitation by asking it to do a repeditive task such as creating a bunch of jira tickets. I believe this was a limit of the Gemini model, it litterally told me:
