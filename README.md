@@ -60,6 +60,8 @@ which states that if ever anyone discovers exactly what the Universe is for and 
 2. dontcryformegiratina: A comedy movie released in 1983 that was written, directed by and starring the members of the British comedy troupe Monty Python.
 
 3. I didn't care for this comment so I removed it from the example output.
+
+It does dump a lot more to the screen, but is not relevent for this example.
 ```
 
 ## Limitations
